@@ -1,0 +1,88 @@
+body{background-color: aqua;}
+
+h1{
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-size:40px;
+    text-decoration: underline;
+}
+.cutie{
+    width:600px;
+    height:400px;
+    border-style:outset;
+    border-color: rgb(224, 10, 224);
+    
+}
+.cutie2{
+    text-align:center;
+    font-size:30px;
+    padding-left:250px;
+    font-family: 'Dosis', sans-serif;
+}
+.cutie3 img{
+    
+    width:650px;
+    height:400px;
+    border-style:outset;
+    border-color: rgb(224, 10, 224);
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cutie4{
+    padding-bottom:0%;
+    font-size:30px;
+    padding-left:780px;
+    font-family: 'Dosis', sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cutie5{
+    width:90%;
+    height:90%;
+    border-style:outset;
+    border-color: rgb(224, 10, 224);
+    float:right;
+    margin-top:-400px
+}
+.cutie6{
+    padding-bottom:0%;
+    font-size:30px;
+    padding-left:1400px;
+    font-family: 'Dosis', sans-serif;
+    display: block;
+    margin-left: auto;
+    
+}
+.cutie7{
+    width:650px;
+    height:450px;
+    border-style:outset;
+    border-color: rgb(224, 10, 224);
+    float:left;
+    margin-top:-10px
+}
+.cutie8{
+    padding-bottom:0%;
+    font-size:30px;
+    
+    font-family: 'Dosis', sans-serif;
+    
+}
+.cutie9{
+    width:650px;
+    height:450px;
+    border-style:outset;
+    border-color: rgb(224, 10, 224);
+    float:right;
+    margin-top:-10px
+}
+.cutie10{
+    text-align:right;
+    padding-bottom:0%;
+    font-size:30px;
+    
+    font-family: 'Dosis', sans-serif;
+}
+
