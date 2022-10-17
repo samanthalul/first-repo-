@@ -1,8 +1,8 @@
 h1{
     text-align:center;
-    color:  rgb(19, 23, 236);
+    color:  rgb(15, 18, 199);
     border-style:double;
-    background-color: rgb(247, 30, 211);
+    background-color: rgb(224, 19, 190);
     background-position-x: left;
     width: 1390px;
     height: 100px;
@@ -17,7 +17,7 @@ h1{
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
     left: 0;
-    background-color: #111; /* Black*/
+    background-color: rgb(19, 17, 17); /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
